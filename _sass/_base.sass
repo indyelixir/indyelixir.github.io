@@ -1,0 +1,129 @@
+$primary: #6b3c80
+$primary-light: #d2c4d8
+$meetup: #ed1c40
+$border-radius: .25em
+$breakpoint: 35em
+
+html
+  overflow-y: auto
+  background-color: $primary
+  background-image: url("/images/skyline.svg")
+  background-size: 100%
+  background-position: top left
+  background-repeat: no-repeat
+
+body
+  font-size: 125%
+  max-width: $breakpoint
+  line-height: 1.5
+  margin: 0 auto
+  padding: 1em 5%
+  font-family: "Source Sans Pro", sans-serif
+  font-weight: 400
+  color: #444
+
+  @media (min-width: $breakpoint)
+    font-size: 131.25%
+
+figure
+  margin: 1em 0 2em
+
+figcaption
+  color: #999
+  font-size: .875em
+  line-height: 1.25
+  margin: .5em 0 1em
+
+h2
+  margin: 2em 0 1em
+  border-bottom: 1px solid #ccc
+
+a
+  &:link
+    color: $primary
+
+  &:hover,
+  &:focus
+    color: lighten($primary, 10%)
+
+  &:visited
+    color: darken($primary, 10%)
+
+
+.SiteHeader
+  margin-bottom: 1em
+
+.Main
+  background-color: #fff
+  box-shadow: 0 5px 10px rgba(0,0,0,.1)
+  padding: 1em 5%
+  border-radius: $border-radius
+
+.SiteFooter
+  color: rgba(255,255,255,.75)
+  text-align: center
+  font-size: .875em
+  padding: 1em
+
+.Logo
+  max-width: 50%
+  display: block
+  margin: 0 auto
+
+.Button
+  padding: .5em 1em
+  color: #fff !important
+  background-color: $primary
+  border-radius: $border-radius
+  text-decoration: none
+  text-shadow: 0 -1px 1px rgba(0,0,0,.25)
+  box-shadow: 0 1px 3px rgba(0,0,0, .25)
+
+  &:hover,
+  &:focus
+    background-color: darken($primary, 10%)
+
+  &--meetup
+    background-color: $meetup
+
+    &:hover,
+    &:focus
+      background-color: darken($meetup, 10%)
+
+  &--block
+    display: block
+    text-align: center
+
+  &--secondary
+    border: .1em solid $primary
+    background: #fff
+    color: $primary !important
+    text-shadow: none
+    box-shadow: none
+
+    &:hover,
+    &:focus
+      background-color: rgba(0,0,0,.1)
+
+.Banner
+  font-size: 1.5em
+  margin: 2em 0
+  text-align: center
+  color: #fff
+  // font-weight: normal
+
+.FlexVideo
+  position: relative
+  padding-bottom: 56.25% // 16:9
+  height: 0
+  width: 100%
+
+  iframe
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+
+.twitter-tweet
+  margin: 1em auto

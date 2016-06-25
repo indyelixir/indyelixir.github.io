@@ -1,0 +1,11 @@
+# Site settings
+title: "Indy Elixir: The Indianapolis Elixir Users Group"
+email: hello@indyelixir.org
+description: "Join fellow Elixirists in Indianapolis to learn about building real-time apps lightning-fast APIs, and connected devices with Elixir and OTP."
+baseurl: ""
+url: "http://www.indyelixir.org"
+twitter_username: indyelixir
+github_username:  indyelixir
+
+# Build settings
+markdown: kramdown
