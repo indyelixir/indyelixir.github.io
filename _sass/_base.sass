@@ -13,7 +13,7 @@ html
   background-repeat: no-repeat
 
 body
-  font-size: 125%
+  font-size: 87.5%
   max-width: $breakpoint
   line-height: 1.5
   margin: 0 auto
@@ -22,8 +22,11 @@ body
   font-weight: 400
   color: #444
 
+  @media (min-width: 400px)
+    font-size: 100%
+
   @media (min-width: $breakpoint)
-    font-size: 131.25%
+    font-size: 125%
 
 figure
   margin: 1em 0 2em
