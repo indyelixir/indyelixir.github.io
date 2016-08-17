@@ -9,3 +9,18 @@ github_username:  indyelixir
 
 # Build settings
 markdown: kramdown
+
+paginate: 10
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from _site
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+

@@ -1,6 +1,7 @@
 $primary: #6b3c80
 $primary-light: #d2c4d8
 $meetup: #ed1c40
+$light-text: #bbb
 $border-radius: .25em
 $breakpoint: 35em
 
@@ -55,12 +56,6 @@ a
 
 .SiteHeader
   margin-bottom: 1em
-
-.Main
-  background-color: #fff
-  box-shadow: 0 5px 10px rgba(0,0,0,.1)
-  padding: 1em 5%
-  border-radius: $border-radius
 
 .SiteFooter
   color: rgba(255,255,255,.75)
@@ -130,3 +125,20 @@ a
 
 .twitter-tweet
   margin: 1em auto
+
+.Post
+  background-color: #fff
+  box-shadow: 0 5px 10px rgba(0,0,0,.1)
+  padding: 1em 5%
+  border-radius: $border-radius
+  margin-bottom: 2em
+
+  &-header
+    text-align: center
+
+  &-title
+    margin-bottom: 0
+
+  &-meta
+    color: $light-text
+    margin-top: 0
