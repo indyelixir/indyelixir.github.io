@@ -5,8 +5,6 @@ date: 2016-06-28 12:02 UTC
 
 <p>Interested in building real-time apps, lightning-fast APIs, or connected devices on the internet-of-things? Join us as we explore <a href="http://elixir-lang.org/">Elixir</a>, an exciting new functional programming language with an emphasis on concurrency, high-availability, and clarity.</p>
 
-<a href="http://www.meetup.com/indyelixir/" class="Button Button--meetup Button--block"><strong>Join the Meetup →</strong></a>
-
 <p>We’re just getting started. Here’s what you can do now:</p>
 <ul>
   <li><a href="http://www.meetup.com/indyelixir/">Join the Meetup group</a> and/or <a href="https://twitter.com/indyelixir">follow @indyelixir</a> on Twitter to be notified of new events.</li>
