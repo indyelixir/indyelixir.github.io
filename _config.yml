@@ -9,6 +9,7 @@ github_username:  indyelixir
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 
 paginate: 10
 
@@ -24,3 +25,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
