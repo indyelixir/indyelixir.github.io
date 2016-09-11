@@ -13,11 +13,11 @@ Unfortunately, we weren’t able to record the talks this time, but you can find
 
 **Steve Grossi** gave the first talk, aimed at beginners, titled “Building and Sharing Your First Elixir Library”. View [the slides here](http://work.stevegrossi.com/talks/building-and-sharing-your-first-elixir-library/). And the artifacts:
 
-- [github.com/stevegrossi/fibonacci](https://github.com/stevegrossi/fibonacci) (Github repo for the example library. It needs work—PRs welcome!)
+- [github.com/stevegrossi/fibonacci](https://github.com/stevegrossi/fibonacci) (Github repo for the example library)
 - [hex.pm/packages/fibonacci](https://hex.pm/packages/fibonacci) (the Hex package page)
 - [hexdocs.pm/fibonacci](https://hexdocs.pm/fibonacci) (the online docs)
 
-**David Kenyon** gave a talk “Neural Networks Demystified,” an introduction to the concepts behind consciousness, AI programming in general, and artificial neural networks in particular. Slides will be posted soon.
+**David Kenyon** gave a talk “Neural Networks Demystified,” an introduction to the concepts behind consciousness, AI programming in general, and artificial neural networks in particular. [View the slides here](https://github.com/LambdaPractitioner/talks).
 
 We ran out of time before we could watch any of it, but David planned on showing parts of a talk by Karmen Blake walking through building a neural network in Elixir (with code examples). You can watch Blake’s talk on YouTube:
 
