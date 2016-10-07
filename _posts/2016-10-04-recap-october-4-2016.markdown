@@ -1,0 +1,23 @@
+---
+title: "Recap: October 4, 2016 Meetup"
+date: 2016-10-04 012:01 UTC
+---
+
+Thanks to everyone who joined us for our second in-person meetup. Special thanks to David Jones for recording the talks—if you couldn’t make it, I’ll announce when they’re up on the [Indy Elixir YouTube channel](https://www.youtube.com/indyelixirorg) and add them to this post.
+
+Thanks again to [Lesson.ly](http://www.lessonly.com) for providing the space and to [Expected Behavior](http://www.expectedbehavior.com/) for the pizza and drinks. And I’m pleased to thank our newest sponsor, [Manning Publications](https://www.manning.com/), who let us give away copies of their two excellent Elixir books. Congrats to Andrew and Nathan who won copies of [*Elixir in Action*](https://www.manning.com/books/elixir-in-action) and [*The Little Elixir & OTP Guidebook*](https://www.manning.com/books/the-little-elixir-and-otp-guidebook), respectively. If you’d like your own copy of either (or any book from Manning’s large collection), they’ve kindly given us a 36% off discount code: `ug367`. I used it myself!
+
+Finally, thanks to [Indy Hackers](http://indyhackers.org/) we now have a Flowdock channel. [Click here to join](https://www.flowdock.com/invitations/95b9dce6c4946f9940ee17df43c27d06c0da5615), where we’ve been talking about the recent ElixirConf talks, asking questions, and solving problems with Elixir.
+
+## Talks
+
+**Miles Sterrett** came through in a pinch and talked about his experience porting the [Indy Hackers Job Board](http://www.indyhackers.org/jobs) over to Elixir and Phoenix. He focused on some interesting authentication requirements and how to use plug to achieve them.
+
+- [github.com/indyhackers/elixir-job-board](https://github.com/indyhackers/elixir-job-board)
+- [The PR (feedback welcome!)](https://github.com/indyhackers/elixir-job-board/pull/8)
+
+**Scott Johnson** gave a great introduction to the powerful automated provisioning framework [Ansible](https://www.ansible.com/) and showed how to use it to set up any number of local or remote machines with Elixir and its dependencies. Scott’s posted the [slides on his blog here](https://fuzzygroup.github.io/blog/ansible/2016/10/04/ansible-basics-presentation-at-indy-elixir-meetup.html).
+
+**Steve Grossi** introduced [elix](https://github.com/indyelixir/elix), the Elixir-powered chatbot who now inhabits our Flowdock flow, and how to set up a chatbot on Heroku with [hedwig](https://github.com/hedwig-im/hedwig), an Elixir chatbot library. Check out the [open pull requests](https://github.com/indyelixir/elix/pulls) for additional robot superpowers (contributions welcome!)
+
+See you next month!
