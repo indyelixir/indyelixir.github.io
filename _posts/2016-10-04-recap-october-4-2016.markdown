@@ -20,4 +20,4 @@ Finally, thanks to [Indy Hackers](http://indyhackers.org/) we now have a Flowdoc
 
 **Steve Grossi** introduced [elix](https://github.com/indyelixir/elix), the Elixir-powered chatbot who now inhabits our Flowdock flow, and how to set up a chatbot on Heroku with [hedwig](https://github.com/hedwig-im/hedwig), an Elixir chatbot library. Check out the [open pull requests](https://github.com/indyelixir/elix/pulls) for additional robot superpowers (contributions welcome!)
 
-See you next month!
+See you next month on [November 1, 2016](http://www.meetup.com/indyelixir/events/234644670/)!
