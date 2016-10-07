@@ -1,6 +1,8 @@
 $primary: #6b3c80
 $primary-light: #d2c4d8
 $meetup: #ed1c40
+$twitter: #00aced
+$flowdock: #ff8200
 $light-text: #bbb
 $border-radius: .25em
 $breakpoint: 35em
@@ -76,6 +78,7 @@ a
   text-decoration: none
   text-shadow: 0 -1px 1px rgba(0,0,0,.25)
   box-shadow: 0 1px 3px rgba(0,0,0, .25)
+  margin-bottom: .5em
 
   &:hover,
   &:focus
@@ -88,9 +91,26 @@ a
     &:focus
       background-color: darken($meetup, 10%)
 
+  &--twitter
+    background-color: $twitter
+
+    &:hover,
+    &:focus
+      background-color: darken($twitter, 10%)
+
+  &--flowdock
+    background-color: $flowdock
+
+    &:hover,
+    &:focus
+      background-color: darken($flowdock, 10%)
+
   &--block
     display: block
     text-align: center
+
+  &--half
+    width: 50%
 
   &--secondary
     border: .1em solid $primary
