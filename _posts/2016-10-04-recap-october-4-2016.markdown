@@ -13,11 +13,29 @@ Finally, thanks to [Indy Hackers](http://indyhackers.org/) we now have a Flowdoc
 
 **Miles Sterrett** came through in a pinch and talked about his experience porting the [Indy Hackers Job Board](http://www.indyhackers.org/jobs) over to Elixir and Phoenix. He focused on some interesting authentication requirements and how to use plug to achieve them.
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XsVVcFTQMnU" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 - [github.com/indyhackers/elixir-job-board](https://github.com/indyhackers/elixir-job-board)
 - [The PR (feedback welcome!)](https://github.com/indyhackers/elixir-job-board/pull/8)
 
 **Scott Johnson** gave a great introduction to the powerful automated provisioning framework [Ansible](https://www.ansible.com/) and showed how to use it to set up any number of local or remote machines with Elixir and its dependencies. Scott’s posted the [slides on his blog here](https://fuzzygroup.github.io/blog/ansible/2016/10/04/ansible-basics-presentation-at-indy-elixir-meetup.html).
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CZz7YztSf7s" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 **Steve Grossi** introduced [elix](https://github.com/indyelixir/elix), the Elixir-powered chatbot who now inhabits our Flowdock flow, and how to set up a chatbot on Heroku with [hedwig](https://github.com/hedwig-im/hedwig), an Elixir chatbot library. Check out the [open pull requests](https://github.com/indyelixir/elix/pulls) for additional robot superpowers (contributions welcome!)
+
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QrpYE2jDG0s" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
 
 See you next month on [November 1, 2016](http://www.meetup.com/indyelixir/events/234644670/)!
