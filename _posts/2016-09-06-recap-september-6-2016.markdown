@@ -3,7 +3,7 @@ title: "Recap: September 6, 2016 Meetup"
 date: 2016-09-06 011:12 UTC
 ---
 
-Thanks to all who came out for our first in-person meetup! And thanks especially to [Lesson.ly](http://www.lessonly.com) for providing the space and to [Expected Behavior](http://www.expectedbehavior.com/) for providing the pizza and drinks.
+Thanks to all who came out for our first in-person meetup! And thanks especially to [Lessonly](http://www.lessonly.com) for providing the space and to [Expected Behavior](http://www.expectedbehavior.com/) for providing the pizza and drinks.
 
 **Scott Johnson** kicked things off with a report from [ElixirConf 2016](http://www.elixirconf.com/), which just wrapped up last week. (Keep an eye on [this page](http://confreaks.tv/events/elixirconf2016) where the ElixirConf talks will be posted soon.) Scott was impressed with the level of maturity of many Elixir projects, though deployment can still be a challenge. And he noted how Phoenix is extremely powerful but still finding its place, moving away from “Rails for Elixir” and towards things like service discovery with Presence. Also, everyone was really nice.
 
