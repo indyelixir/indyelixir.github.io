@@ -3,7 +3,7 @@ title: "Recap: November 1, 2016 Meetup"
 date: 2016-11-01 012:01 UTC
 ---
 
-Thanks to everyone who joined us for our second in-person meetup. Thanks again to David Jones for recording the talks: find recordings below and on our Youtube channel, [youtube.com/indyelixirorg](https://www.youtube.com/indyelixirorg).
+Thanks to everyone who joined us for our third in-person meetup. Thanks again to David Jones for recording the talks: find recordings below and on our Youtube channel, [youtube.com/indyelixirorg](https://www.youtube.com/indyelixirorg).
 
 A big thanks to our sponsors:
 
