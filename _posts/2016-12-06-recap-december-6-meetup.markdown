@@ -3,7 +3,7 @@ title: "Recap: December 6, 2016 Meetup"
 date: 2016-12-06 014:16 UTC
 ---
 
-Thanks to everyone who joined us for our last in-person meetup of 2016. Once again, David Jones kindly recorded tonight’s talk: it’ll be posted soon on our Youtube channel, [youtube.com/indyelixirorg](https://www.youtube.com/indyelixirorg).
+Thanks to everyone who joined us for our last in-person meetup of 2016. Once again, David Jones kindly recorded tonight’s talk: you can find it on our Youtube channel, [youtube.com/indyelixirorg](https://www.youtube.com/indyelixirorg).
 
 A big thanks to our sponsors:
 
@@ -14,6 +14,12 @@ A big thanks to our sponsors:
 ## Talks
 
 **Steve Grossi** gave an introduction to processes and supervision in Elixir, introducing `GenServer` and using OTP to build a simple reminders application.
+
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eUxang6_WQA" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
 
 - [Slides](http://work.stevegrossi.com/talks/processes-and-supervision-in-elixir/)
 - [Example repo](https://github.com/stevegrossi/reminders)
