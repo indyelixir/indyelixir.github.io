@@ -11,7 +11,7 @@ github_username:  indyelixir
 markdown: kramdown
 permalink: pretty
 
-paginate: 10
+paginate: 5
 
 gems:
   - jekyll-paginate
