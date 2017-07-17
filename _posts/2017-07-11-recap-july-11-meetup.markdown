@@ -10,8 +10,20 @@ A big thanks to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) who 
 
 **Brian Howenstein** talked about how [Clustertruck](https://clustertruck.com/) uses Elixir to cook, track, and deliver fresh food as quickly as possible. Brian delved into how Clustertruck introduced Elixir into their primarily-Rails stack.
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9LMzYTK6dsE" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 - [Kitto](https://github.com/kittoframework/kitto), a small framework for creating dashboards in Elixir and React
 
 **Jeff Browning** shared how his team uses Elixir to power [Yala](https://yalabot.com/), an intelligent chatbot that helps you manage, schedule, and optimize your team’s social posts. Jeff talked about some important pitfalls when running Elixir in production, as well as the benefits.
+
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hk0ZzPUBOCs" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
 
 Our next event will be on Tuesday, [September 5, 2017](https://www.meetup.com/indyelixir/events/241639349/) We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
