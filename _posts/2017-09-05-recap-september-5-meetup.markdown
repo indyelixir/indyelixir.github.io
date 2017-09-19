@@ -10,11 +10,23 @@ Thanks as always to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) 
 
 **Eric Oestrich** gave an introduction to GenServer, a common building-block of OTP applications. He also delved into Elixir releases with [distillery](https://github.com/bitwalker/distillery) and showed an impressive demo of hot code swapping.
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0n9ta5movWY" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 - [The slides](http://oestrich.org/presentations/genserver-basics.pdf)
 - [ex_venture, Eric’s multi-user dungeon (MUD) project](https://github.com/oestrich/ex_venture)
 - [GenServer Docs](https://hexdocs.pm/elixir/GenServer.html)
 
 **Benjamin Falk** taught us all a few things about unit testing in Elixir (not to mention how to score bowling 🎳).
+
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6XQQsh55kRE" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
 
 - [The ExUnit docs](https://hexdocs.pm/ex_unit/ExUnit.html)
 - [A post from José on ElixirForum about the decision not ot allow nesting `describe` blocks](https://elixirforum.com/t/how-to-describe-many-contexts-in-exunit-without-a-hierarchy/1551/3?u=stevegrossi)
