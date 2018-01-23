@@ -8,6 +8,12 @@ A big thank-you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) w
 
 **Steve Grossi** gave the evening’s talk about “context” modules, a code organization pattern recently introduced in Phoenix 1.3. Contexts are simple to use and bring a number of benefits, but require thinking about your code in a slightly different way.
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tdUtgtlJsEE" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 - [Slides from the talk](http://work.stevegrossi.com/talks/contextualizing-phoenix-contexts#1)
 - [The Phoenix docs on contexts](https://hexdocs.pm/phoenix/contexts.html)
 - [Member Eric Oestrich recently wrote about contexts, too!](https://blog.oestrich.org/2018/01/tweak-to-phoenix-contexts/)
