@@ -2,7 +2,7 @@
 title: "Recap: January 9, 2018 Meetup"
 ---
 
-Thanks to everyone who came out to kick off 2018 with Elixir! If you couldn’t make it, look for recordings soon on our Youtube channel, [youtube.com/indyelixirorg](https://www.youtube.com/indyelixirorg).
+Thanks to everyone who came out to kick off 2018 with Elixir! If you couldn’t make it, you can find recordings of past meetups on our Youtube channel, [youtube.com/indyelixirorg](https://www.youtube.com/indyelixirorg).
 
 A big thank-you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) who made tonight possible. And congrats to Jake and Josh, winners of Manning Publications’ excellent Elixir books *Elixir In Action* and *The Little Elixir and OTP Guidebook*. Check out Manning’s new Elixir book in development, [*Phoenix in Action*](https://www.manning.com/books/phoenix-in-action).
 
