@@ -8,6 +8,12 @@ Thanks as always to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) 
 
 We kicked things off with an open-mic night that ended up spanning the whole meeting!
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wY0kwp9X65o" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 **Eric Oestrich** shared a clever approach to keeping commonly-used strings (like form labels) in a separate text file that’s compiled into functions by hooking into Phoenix’s code-reloading with `@external_resource`. Check out [the blog post for more detail](https://blog.oestrich.org/2018/03/elixir-external-resources/).
 
 **Steve Grossi** talked about a positive experience deploying Eric’s [ex_venture](https://github.com/oestrich/ex_venture) on [Gigalixir](https://gigalixir.com/), a relatively new Elixir hosting platform-as-a-service more tailored to Elixir and OTP apps than something like Heroku.
