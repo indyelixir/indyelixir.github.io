@@ -8,10 +8,22 @@ A big thank-you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) w
 
 We started the evening off with an open-mic night. **Eric Oestrich** shared an exciting update to his ex_venture project: it now supports running on multiple nodes for improved uptime and scalability.
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rxFlKhWzthw" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 - [Blog post about the update](https://blog.oestrich.org/2018/04/exventure-updates/)
 - [What's coming soon to ex_venture](https://trello.com/b/PFGmFWmu/exventure)
 
 We continued the meetup by mob-programming an **Exercism.io** exercise in Elixir. [Exercism.io](http://exercism.io/) is a platform that lets you collaborate and seek feedback on coding exercises in various languages. We had some great discussion, helpful to newcomers and experienced Elixirists alike!
+
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gzjoqb4d538" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
 
 - [Elixir on Exercism.io](http://exercism.io/languages/elixir/about)
 - [The *Indy Elixir* Exercism.io team](http://exercism.io/teams/indyelixir/streams)—message us on Flowdock or Twitter to join!
