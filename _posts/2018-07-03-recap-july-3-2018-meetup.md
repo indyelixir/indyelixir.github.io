@@ -8,6 +8,8 @@ A big thank-you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) w
 
 We kicked things off with **Jared Alford** sharing how his team at Sigstr uses Elixir to publish events to [Apache Kafka](http://kafka.apache.org/). A challenge they faced with the [kafka_ex](https://github.com/kafkaex/kafka_ex) library is that when Kafka would go down, so would kafka_ex and it would take their application down with it. His solution was a GenServer to monitor Kafka and handle downtime gracefully.
 
+- [The repository on Bitbucket](https://bitbucket.org/sigstr/sigstr-elixir-kafka/)
+
 <figure>
   <div class="FlexVideo">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/95vxTigSvNQ" frameborder="0" allowfullscreen></iframe>
