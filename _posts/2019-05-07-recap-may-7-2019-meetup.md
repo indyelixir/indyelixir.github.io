@@ -8,8 +8,26 @@ This evening's talks focused on [Phoenix LiveView](https://dockyard.com/blog/201
 
 **Mitch Hanberg** started us off with a talk about refactoring an interface component from JavaScript/AJAX to LiveView to enable real-time updates. The end result required less code and was easier to reason about, too!
 
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JG2dUCGDNIY" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
 **Eric Oestrich** shared how he used both LiveView and Phoenix Channels to create a live-updating "Player Count" widget on [grapevine.haus](https://grapevine.haus/) that updates all connected clients when the count changes. Check out his [live stream](https://www.youtube.com/watch?v=6TXVIkG6PF0) to watch Eric build it.
+
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1rSYlvNdrhU" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
 
 Finally, we had some great discussion after the talks. Mitch shared some current work on [an HTML DSL in Elixir](https://github.com/mhanberg/dsl). He came with a question for the group, but taught many of us a lesson in metaprogramming as we talked through it.
 
-Watch [our Meetup page](https://www.meetup.com/indyelixir/) for upcoming events, and we’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+<figure>
+  <div class="FlexVideo">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/86lSzFnEZqQ" frameborder="0" allowfullscreen></iframe>
+  </div>
+</figure>
+
+Our next event will be on Tuesday, [July 2, 2019](https://www.meetup.com/indyelixir/events/261778020/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
