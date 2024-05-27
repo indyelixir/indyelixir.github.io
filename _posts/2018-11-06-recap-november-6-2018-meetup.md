@@ -15,6 +15,6 @@ After some discussion, we wrapped up the evening collaborating on an [Exercism.i
 
 - [Our solution to Nth Prime](https://exercism.io/my/solutions/73fc77a7219e446eb8c0b2847c8f5b86)
 
-Our next event will be on Tuesday, [January 8, 2019](https://www.meetup.com/indyelixir/events/256370894/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on Tuesday, [January 8, 2019](https://www.meetup.com/indyelixir/events/256370894/) We’re always looking for speakers—please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!
 
 And if you just can’t wait until January to hang out and talk tech, you can still sign up for the IndyHackers Holiday Social on December 1: [get your (free!) ticket here](http://www.indyhackers.org/holiday-social-2018).

@@ -18,4 +18,4 @@ A big thank-you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) w
 - [The Phoenix docs on contexts](https://hexdocs.pm/phoenix/contexts.html)
 - [Member Eric Oestrich recently wrote about contexts, too!](https://blog.oestrich.org/2018/01/tweak-to-phoenix-contexts/)
 
-Our next event in the new year will be on Tuesday, [March 6, 2018](https://www.meetup.com/indyelixir/events/246743287/) We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Our next event in the new year will be on Tuesday, [March 6, 2018](https://www.meetup.com/indyelixir/events/246743287/) We’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

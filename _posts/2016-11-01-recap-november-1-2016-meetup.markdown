@@ -38,4 +38,4 @@ A big thanks to our sponsors:
 
 You can also see John give [this talk at Midwest.io in 2014](https://www.youtube.com/watch?v=E18shi1qIHU).
 
-Hope to see you next month on [December 6, 2016](http://www.meetup.com/indyelixir/events/234972007/)! We’re looking for another speaker—[let me know](mailto:hello@indyelixir.org) if you’re interested.
+Hope to see you next month on [December 6, 2016](http://www.meetup.com/indyelixir/events/234972007/)! We’re looking for another speaker—[let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested.

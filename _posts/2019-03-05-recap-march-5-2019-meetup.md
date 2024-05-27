@@ -16,4 +16,4 @@ defp ok!({:ok, value}), do: value
 
 We wanted to call it 🆗, but were surprised (given Elixir's excellent Unicode support) that emoji in function names won't compile. 🤷‍♂️
 
-Our next event will be on Tuesday, [May 7, 2019](https://www.meetup.com/indyelixir/events/259558481/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on Tuesday, [May 7, 2019](https://www.meetup.com/indyelixir/events/259558481/) We’re always looking for speakers—please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

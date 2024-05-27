@@ -26,4 +26,4 @@ Eric Oestrich mentioned a similar challenge he faced building <https://gossip.ha
   </div>
 </figure>
 
-Sound exciting? Our next event will be on Tuesday, [September 4, 2018](https://www.meetup.com/indyelixir/events/252591281/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+Sound exciting? Our next event will be on Tuesday, [September 4, 2018](https://www.meetup.com/indyelixir/events/252591281/) We’re always looking for speakers—please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

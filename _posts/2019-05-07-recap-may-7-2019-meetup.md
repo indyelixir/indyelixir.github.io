@@ -30,4 +30,4 @@ Finally, we had some great discussion after the talks. Mitch shared some current
   </div>
 </figure>
 
-Our next event will be on Tuesday, [July 2, 2019](https://www.meetup.com/indyelixir/events/261778020/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on Tuesday, [July 2, 2019](https://www.meetup.com/indyelixir/events/261778020/) We’re always looking for speakers—please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

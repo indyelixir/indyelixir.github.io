@@ -16,4 +16,4 @@ Eric Oestrich previewed a talk [he later delivered at ElixirConf US 2018](https:
 
 You can also watch Eric [deliver his talk at ElixirConf here](https://www.youtube.com/watch?v=lCUKQnkjajo)!
 
-Sound exciting? Our next event will be on Tuesday, [November 6, 2018](https://www.meetup.com/indyelixir/events/254608732/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+Sound exciting? Our next event will be on Tuesday, [November 6, 2018](https://www.meetup.com/indyelixir/events/254608732/) We’re always looking for speakers—please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

@@ -22,4 +22,4 @@ A big thank you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) f
   </div>
 </figure>
 
-Our next event will be on Tuesday, [March 5, 2019](https://www.meetup.com/indyelixir/events/258050891/) We’re always looking for speakers—please [reach out](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on Tuesday, [March 5, 2019](https://www.meetup.com/indyelixir/events/258050891/) We’re always looking for speakers—please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

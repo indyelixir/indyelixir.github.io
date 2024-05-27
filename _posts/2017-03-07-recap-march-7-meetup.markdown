@@ -28,4 +28,4 @@ You can check it out on Github: [github.com/LRFalk01/pokerboy](https://github.co
 
 Find the code on Github: [github.com/SherSpock/GMYLM-Elixir](https://github.com/SherSpock/GMYLM-Elixir)
 
-Following the new bi-monthly schedule, our next event will be on [May 2, 2017](https://www.meetup.com/indyelixir/events/238289127/)! We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Following the new bi-monthly schedule, our next event will be on [May 2, 2017](https://www.meetup.com/indyelixir/events/238289127/)! We’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

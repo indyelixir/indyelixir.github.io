@@ -26,4 +26,4 @@ A big thanks to our sponsors:
 
 Then we ended the evening with an hour of hacking and discussion about `GenServer`s and all things Elixir.
 
-Hope to see you in the new year on [January 3, 2017](https://www.meetup.com/indyelixir/events/235620850/)! We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Hope to see you in the new year on [January 3, 2017](https://www.meetup.com/indyelixir/events/235620850/)! We’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

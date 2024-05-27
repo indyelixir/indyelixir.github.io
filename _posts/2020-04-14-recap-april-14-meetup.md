@@ -14,4 +14,4 @@ Thank you to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) for mak
   </div>
 </figure>
 
-Our next (likely remote) event will be on Tuesday, [June 2, 2020](https://www.meetup.com/indyelixir/events/270176001/) Intereted in speaking? Please [reach out](mailto:hello@indyelixir.org)!
+Our next (likely remote) event will be on Tuesday, [June 2, 2020](https://www.meetup.com/indyelixir/events/270176001/) Intereted in speaking? Please [reach out](mailto:hellostevegrossi+indyelixir@gmail.org)!

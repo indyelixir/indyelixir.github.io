@@ -24,4 +24,4 @@ Then we ended the evening with an hour of musical hacking and discussion. Some h
 - I learned the difference between performing `GenServer` setup in `start_link` vs. `init`. `start_link` happens in the originating process, while `init` happens in the `GenServer` process. So perform any memory-intensive setup in `start_link` to keep the `GenServer`’s own memory footprint small.
 - Lucas Falk suggested using guard clauses to ensure we actually get lists when we’re expecting them. Always a good practice!
 
-Please note that we’re switching to a bi-monthly schedule, so our next event will be on [March 7, 2017](https://www.meetup.com/indyelixir/events/235620866/)! We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Please note that we’re switching to a bi-monthly schedule, so our next event will be on [March 7, 2017](https://www.meetup.com/indyelixir/events/235620866/)! We’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

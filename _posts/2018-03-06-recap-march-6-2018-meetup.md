@@ -20,4 +20,4 @@ We kicked things off with an open-mic night that ended up spanning the whole mee
 
 **Ben Falk** gave a fascinating deep-dive into reverse-engineering the binary protocol used by the Dark Age of Camelot MMORPG in an effort to build his own server for the game. Elixir makes parsing binary data easy, but doing so at this scale required some interesting patterns.
 
-Our next event will be on Tuesday, [May 1, 2018](https://www.meetup.com/indyelixir/events/248627642/) We’re always looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on Tuesday, [May 1, 2018](https://www.meetup.com/indyelixir/events/248627642/) We’re always looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

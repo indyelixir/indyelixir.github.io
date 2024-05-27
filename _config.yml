@@ -1,11 +1,11 @@
 # Site settings
 title: "Indy Elixir: The Indianapolis Elixir Users Group"
-email: hello@indyelixir.org
+email: hellostevegrossi+indyelixir@gmail.org
 description: "Join fellow Elixirists in Indianapolis to learn about building real-time apps lightning-fast APIs, and connected devices with Elixir and OTP."
 baseurl: ""
-url: "http://www.indyelixir.org"
+url: "http://indyelixir.github.io"
 twitter_username: indyelixir
-github_username:  indyelixir
+github_username: indyelixir
 
 # Build settings
 markdown: kramdown
@@ -26,8 +26,7 @@ exclude:
   - Gemfile.lock
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:

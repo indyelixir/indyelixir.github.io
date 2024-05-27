@@ -27,4 +27,4 @@ Want more hardware/IoT in your life? Check out these local meetups and events:
 - [Indy IoT](https://www.meetup.com/Indy-IoT-Meetup/)
 - [Indy Open Tech Study Hall](https://www.meetup.com/Indy-Open-Tech-Study-Hall/)
 
-Our next event will be on [July 11, 2017](https://www.meetup.com/indyelixir/events/239762140/)! It’s a week later than our usual first-Tuesday since that would be July 4. And we’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on [July 11, 2017](https://www.meetup.com/indyelixir/events/239762140/)! It’s a week later than our usual first-Tuesday since that would be July 4. And we’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

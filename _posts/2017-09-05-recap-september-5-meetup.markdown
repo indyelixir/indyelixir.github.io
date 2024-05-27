@@ -31,4 +31,4 @@ Thanks as always to [our sponsors](https://www.meetup.com/indyelixir/sponsors/) 
 - [The ExUnit docs](https://hexdocs.pm/ex_unit/ExUnit.html)
 - [A post from José on ElixirForum about the decision not ot allow nesting `describe` blocks](https://elixirforum.com/t/how-to-describe-many-contexts-in-exunit-without-a-hierarchy/1551/3?u=stevegrossi)
 
-Our next event will be on Tuesday, [November 7, 2017](https://www.meetup.com/indyelixir/events/243261344/) We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Our next event will be on Tuesday, [November 7, 2017](https://www.meetup.com/indyelixir/events/243261344/) We’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!

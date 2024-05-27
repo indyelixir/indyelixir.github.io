@@ -41,4 +41,4 @@ We tried something new for this event: an open-mic night where members could ask
 - [sengoku-elixir.herokuapp.com](https://sengoku-elixir.herokuapp.com)
 - [github.com/stevegrossi/sengoku](https://github.com/stevegrossi/sengoku)
 
-Our next event in the new year will be on Tuesday, [January 9, 2018](https://www.meetup.com/indyelixir/events/245022301/) We’re looking for speakers—please [let me know](mailto:hello@indyelixir.org) if you’re interested!
+Our next event in the new year will be on Tuesday, [January 9, 2018](https://www.meetup.com/indyelixir/events/245022301/) We’re looking for speakers—please [let me know](mailto:hellostevegrossi+indyelixir@gmail.org) if you’re interested!
